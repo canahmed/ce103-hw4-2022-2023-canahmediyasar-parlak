@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Can Ahmed/Desktop/ce103-hw4-2022-2023-canahmediyasar-parlak/jar.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ce103-hw4-library-app/build.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=ce103-hw4-library-app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;ce103.hw4.library.app{MainMenu.java[MainMenu" manifestLocation="/ce103-hw4-library-app/mani" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/ce103-hw4-library-cmd/pom.xml"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-lib/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <folder path="/ce103-hw4-library-app/src"/>
+        <folder path="/ce103-hw4-library-app/target"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-cmd/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-app/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-app/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/ce103-hw4-library-lib/.project"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-lib/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/"/>
+        <file path="/ce103-hw4-library-app/.project"/>
+        <file path="/ce103-hw4-library-cmd/.classpath"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/ce103-hw4-library-app/supplier.dat"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-cmd/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-cmd/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/"/>
+        <file path="/ce103-hw4-library-app/pom.xml"/>
+        <folder path="/ce103-hw4-library-cmd/src"/>
+        <file path="/ce103-hw4-library-lib/.classpath"/>
+        <folder path="/ce103-hw4-library-lib/target"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-cmd/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <file path="/ce103-hw4-library-cmd/.project"/>
+        <folder path="/ce103-hw4-library-cmd/target"/>
+        <file path="/ce103-hw4-library-lib/pom.xml"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-app/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-lib/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=ce103-hw4-library-lib/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/"/>
+        <folder path="/ce103-hw4-library-lib/src"/>
+        <file path="/ce103-hw4-library-app/.classpath"/>
+    </selectedElements>
+</jardesc>

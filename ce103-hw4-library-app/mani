@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: ce103.hw4.library.app.MainMenu
+
